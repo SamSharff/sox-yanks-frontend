@@ -13,6 +13,10 @@ export default {
 <template>
   <div class="about">
     <h1>{{ message }}</h1>
+    <p>
+      Sox fans: Having a bad day? Let these sweet memories role over you. Behold the Top 10 plays from the 2004 ALCS
+      between the Red Sox and Yankees.
+    </p>
   </div>
   <div class="sr_share_wrap" style="overflow: auto">
     <table
@@ -30,7 +34,7 @@ export default {
         margin-right: auto;
       "
     >
-      <caption>Top 10 Plays Table</caption>
+      <caption><strong>Top 10 Plays Table</strong></caption>
       <!-- <colgroup>
         <col />
         <col />
@@ -544,6 +548,10 @@ export default {
       </tbody>
     </table>
     <div id="credit_top_plays" class="sr_share" style="font-size: 0.83em">
+      <br />
+      (Dis)honorable mention:
+      <a href="https://www.youtube.com/watch?v=xQyY-azd2vk">Gm 6, A-Rod slaps ball from Arroyo's glove</a>
+      <br />
       Provided by
       <a
         href="https://www.sports-reference.com/sharing.html?utm_source=direct&amp;utm_medium=Share&amp;utm_campaign=ShareTool"
