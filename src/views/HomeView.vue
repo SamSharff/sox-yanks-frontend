@@ -2,7 +2,7 @@
 export default {
   data: function () {
     return {
-      message: "Yankees are the butts",
+      message: "Yankees are the Butts",
     };
   },
   created: function () {},
@@ -545,12 +545,52 @@ export default {
             Single to CF (Line Drive); Millar Scores
           </td>
         </tr>
+        <tr>
+          <th scope="row" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
+            <a
+              href="https://www.baseball-reference.com/boxes/NYA/NYA200410190.shtml?utm_source=direct&amp;utm_medium=Share&amp;utm_campaign=ShareTool"
+            >
+              *Gm 6
+            </a>
+          </th>
+          <td csk="6027" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">b8</td>
+          <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">down 2-4</td>
+          <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">1</td>
+          <td
+            data-endpoint="/tools/def.cgi?html=1&amp;game-event=NYA200410190-27-post"
+            csk="1.100"
+            style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap"
+          >
+            1--
+          </td>
+          <td
+            data-endpoint="/tools/pitch.cgi?html=1&amp;game-event=NYA200410190-27-post"
+            csk="10"
+            style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap"
+          >
+            6&nbsp;(2-2)
+          </td>
+          <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">O</td>
+          <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">NYY</td>
+          <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
+            <a href="https://www.baseball-reference.com/players/r/rodrial01.shtml">Alex Rodriguez</a>
+          </td>
+          <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
+            <a href="https://www.baseball-reference.com/players/a/arroybr01.shtml">Bronson Arroyo</a>
+          </td>
+          <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">-</td>
+          <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">-</td>
+          <td csk="20.027" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
+            Interference by Batter: P unassisted; Jeter stays at 1B
+          </td>
+        </tr>
       </tbody>
     </table>
     <div id="credit_top_plays" class="sr_share" style="font-size: 0.83em">
       <br />
-      (Dis)honorable mention:
-      <a href="https://www.youtube.com/watch?v=xQyY-azd2vk">Gm 6, A-Rod slaps ball from Arroyo's glove</a>
+      *This (dis)honorable mention (the infamous 'A-Rod ridiculously slaps ball from Arroy's glove' play) is not part of
+      the original BR data set; the author has added it as an anecdotal 'Top 10 Play' in recognition of the weight it
+      carries for Sox fans.
       <br />
       Provided by
       <a
