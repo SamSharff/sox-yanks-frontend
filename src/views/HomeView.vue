@@ -586,7 +586,7 @@ export default {
         </tr>
       </tbody>
     </table>
-    <div id="credit_top_plays" class="sr_share" style="font-size: 0.83em">
+    <div id="credit_top_plays" class="sr_share" style="font-size: 0.83em; margin-left: 10%; margin-right: 10%">
       <br />
       *This (dis)honorable mention (the infamous 'A-Rod ridiculously slaps ball from Arroy's glove' play) is not part of
       the original BR data set; the author has added it as an anecdotal 'Top 10 Play' in recognition of the weight it
