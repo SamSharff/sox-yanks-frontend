@@ -14,8 +14,8 @@ export default {
   <div class="about">
     <h1>{{ message }}</h1>
     <p>
-      Sox fans: Having a bad day? Let these sweet memories role over you. Behold the Top 10 plays from the 2004 ALCS
-      between the Red Sox and Yankees.
+      Sox fans: It was a weird season. Take heart, and in the meantime take comfort in these Top 10 plays from the 2004
+      ALCS between the Red Sox and Yankees.
     </p>
   </div>
   <div class="sr_share_wrap" style="overflow: auto">
@@ -588,17 +588,19 @@ export default {
     </table>
     <div id="credit_top_plays" class="sr_share" style="font-size: 0.83em; margin-left: 10%; margin-right: 10%">
       <br />
-      *This (dis)honorable mention (the infamous 'A-Rod ridiculously slaps ball from Arroy's glove' play) is not part of
-      the original BR data set; the author has added it as an anecdotal 'Top 10 Play' in recognition of the weight it
-      carries for Sox fans.
+      *This (dis)honorable mention (the infamous "A-Rod ridiculously slaps ball from Arroyo's glove" play) is not part
+      of the original BR data set. The author has included it here as an anecdotal 'Top 10 Play' based on exactly zero
+      data, but in recognition of the weight it carries for Sox fans in our eternal torch of "Ugh" for A-Rod and this
+      Yankees team.)
       <br />
-      Provided by
+      <br />
+      Provided by:
       <a
         href="https://www.sports-reference.com/sharing.html?utm_source=direct&amp;utm_medium=Share&amp;utm_campaign=ShareTool"
       >
         Baseball-Reference.com
       </a>
-      :
+      -
       <a
         href="https://www.baseball-reference.com/postseason/2004_ALCS.shtml?sr&amp;utm_source=direct&amp;utm_medium=Share&amp;utm_campaign=ShareTool#top_plays"
       >
@@ -610,4 +612,8 @@ export default {
   </div>
 </template>
 
-<style></style>
+<style>
+body {
+  background: rgba(202, 4, 4, 0.761);
+}
+</style>
