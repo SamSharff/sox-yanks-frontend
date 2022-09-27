@@ -18,6 +18,7 @@ export default {
       ALCS between the Red Sox and Yankees.
     </p>
   </div>
+
   <div class="sr_share_wrap" style="overflow: auto">
     <table
       class="sr_share"
@@ -36,20 +37,20 @@ export default {
     >
       <caption><strong>Top 10 Plays Table</strong></caption>
       <!-- <colgroup>
-        <col />
-        <col />
-        <col />
-        <col />
-        <col />
-        <col />
-        <col />
-        <col />
-        <col />
-        <col />
-        <col />
-        <col />
-        <col />
-      </colgroup> -->
+      <col />
+      <col />
+      <col />
+      <col />
+      <col />
+      <col />
+      <col />
+      <col />
+      <col />
+      <col />
+      <col />
+      <col />
+      <col />
+    </colgroup> -->
       <thead>
         <tr>
           <th scope="col" style="background-color: #ddd; border: 1px solid #aaa; padding: 2px">Gm#</th>
@@ -614,6 +615,6 @@ export default {
 
 <style>
 body {
-  background: rgba(202, 4, 4, 0.761);
+  background-color: rgba(216, 6, 6, 0.843);
 }
 </style>
