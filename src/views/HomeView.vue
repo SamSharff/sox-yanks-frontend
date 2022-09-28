@@ -224,7 +224,12 @@ export default {
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">5.54%</td>
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">65.12</td>
           <td csk="23.029" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
-            Home Run (Fly Ball); Varitek Scores; Cabrera Scores
+            <a
+              href="https://www.youtube.com/watch?v=YkXPxy_e1sI&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ&t=1"
+              target="_blank"
+            >
+              Home Run (Fly Ball); Varitek Scores; Cabrera Scores
+            </a>
           </td>
         </tr>
         <tr>
