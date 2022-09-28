@@ -120,7 +120,12 @@ export default {
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">8.74%</td>
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">65.83</td>
           <td csk="23.005" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
-            Home Run (Fly Ball); Ramirez Scores
+            <a
+              href="https://www.youtube.com/watch?v=dyFhFtLsa-k&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ"
+              target="_blank"
+            >
+              Home Run (Fly Ball); Ramirez Scores
+            </a>
           </td>
         </tr>
         <tr>
@@ -615,6 +620,6 @@ export default {
 
 <style>
 body {
-  background-color: rgba(216, 6, 6, 0.843);
+  background-color: rgba(208, 54, 54, 0.693);
 }
 </style>
