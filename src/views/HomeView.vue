@@ -380,7 +380,12 @@ export default {
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">3.48%</td>
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">96.92</td>
           <td csk="2.012" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
-            Ground Ball Double Play: 2B-SS-1B
+            <a
+              href="https://www.youtube.com/clip/UgkxRqbkDbZtZXg1v3VfKQUbq2DjwyWq4EjZ?utm_source=EJGixIgBCJiu2KjB4oSJEQ"
+              target="_blank"
+            >
+              Ground Ball Double Play: 2B-SS-1B
+            </a>
           </td>
         </tr>
         <tr>
