@@ -276,7 +276,12 @@ export default {
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">4.01%</td>
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">78.89</td>
           <td csk="20.126" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
-            Single to CF (Line Drive); Damon Scores; Ramirez to 2B
+            <a
+              href="https://www.youtube.com/watch?v=gu-m2CYHW4Y&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ"
+              target="_blank"
+            >
+              Single to CF (Line Drive); Damon Scores; Ramirez to 2B
+            </a>
           </td>
         </tr>
         <tr>
@@ -323,7 +328,12 @@ export default {
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">3.80%</td>
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">77.66</td>
           <td csk="21.051" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
-            Double to RF (Line Drive); Posada Scores; Sierra Scores; Cairo Scores; Jeter to 3B/Adv on throw
+            <a
+              href="https://www.youtube.com/clip/UgkxqIqlJEFEDV23H8UJ9fGimm5eDtgf_xgg?utm_source=EJGixIgBCJiu2KjB4oSJEQ"
+              target="_blank"
+            >
+              Double to RF (Line Drive); Posada Scores; Sierra Scores; Cairo Scores; Jeter to 3B/Adv on throw
+            </a>
           </td>
         </tr>
         <tr>
@@ -607,7 +617,7 @@ export default {
       *This (dis)honorable mention (the infamous "A-Rod ridiculously slaps ball from Arroyo's glove" play) is not part
       of the original BR data set. The author has included it here as an anecdotal 'Top 10 Play' based on exactly zero
       data, but in recognition of the weight it carries for Sox fans in our eternal torch of "Ugh" for A-Rod and this
-      Yankees team.)
+      Yankees team.
       <br />
       <br />
       Provided by:
