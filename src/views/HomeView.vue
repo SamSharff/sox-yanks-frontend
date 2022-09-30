@@ -484,7 +484,12 @@ export default {
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">2.56%</td>
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">30.25</td>
           <td csk="23.046" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
-            Home Run (Line Drive); Posada Scores
+            <a
+              href="https://www.youtube.com/watch?v=DHSgINljo5A&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ"
+              target="_blank"
+            >
+              Home Run (Line Drive); Posada Scores
+            </a>
           </td>
         </tr>
         <tr>
