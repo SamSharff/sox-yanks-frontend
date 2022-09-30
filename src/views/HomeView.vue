@@ -588,7 +588,12 @@ export default {
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">2.42%</td>
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">62.06</td>
           <td csk="20.027" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
-            Single to CF (Line Drive); Millar Scores
+            <a
+              href="https://www.youtube.com/watch?v=GYWgmSdu3KI&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ"
+              target="_blank"
+            >
+              Single to CF (Line Drive); Millar Scores
+            </a>
           </td>
         </tr>
         <tr>
