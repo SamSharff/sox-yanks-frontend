@@ -14,7 +14,7 @@ export default {
   <div class="about">
     <h1>{{ message }}</h1>
     <p>
-      Sox fans: It was a weird season. Take heart, and in the meantime take comfort in these Top 10 plays from the 2004
+      Sox fans: It was a weird season. Take heart, and in the meantime take comfort in these *Top 10 plays from the 2004
       ALCS between the Red Sox and Yankees.
     </p>
   </div>
@@ -601,7 +601,7 @@ export default {
             <a
               href="https://www.baseball-reference.com/boxes/NYA/NYA200410190.shtml?utm_source=direct&amp;utm_medium=Share&amp;utm_campaign=ShareTool"
             >
-              *Gm 6
+              **Gm 6
             </a>
           </th>
           <td csk="6027" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">b8</td>
@@ -644,7 +644,13 @@ export default {
     </table>
     <div id="credit_top_plays" class="sr_share" style="font-size: 0.83em; margin-left: 10%; margin-right: 10%">
       <br />
-      *This (dis)honorable mention (the infamous "A-Rod ridiculously slaps ball from Arroyo's glove" play) is not part
+      *Baseball Reference uses the championship win probability (cWPA) stat to determine what constitutes a "Top 10
+      Play". This number measures how one play adds or detracts from the probability of a championship win. To read more
+      about how cWPA, as well the championship leverage index (cLI), are calculated, get math-y
+      <a href="https://www.sports-reference.com/blog/2020/09/__trashed-2/" target="_blank">here.</a>
+      <br />
+      <br />
+      **This (dis)honorable mention (the infamous "A-Rod ridiculously slaps ball from Arroyo's glove" play) is not part
       of the original BR data set. The author has included it here as an anecdotal 'Top 10 Play' based on exactly zero
       data, but in recognition of the weight it carries for Sox fans in our eternal torch of "Ugh" for A-Rod and this
       Yankees team.
