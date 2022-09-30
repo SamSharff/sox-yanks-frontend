@@ -632,7 +632,12 @@ export default {
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">-</td>
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">-</td>
           <td csk="20.027" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
-            Interference by Batter: P unassisted; Jeter stays at 1B
+            <a
+              href="https://www.youtube.com/watch?v=xQyY-azd2vk&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ"
+              target="_blank"
+            >
+              Interference by Batter: P unassisted; Jeter stays at 1B
+            </a>
           </td>
         </tr>
       </tbody>
