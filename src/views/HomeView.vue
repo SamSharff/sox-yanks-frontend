@@ -536,7 +536,12 @@ export default {
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">2.44%</td>
           <td style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">42.61</td>
           <td csk="22.068" style="border: 1px solid #ccc; padding: 2px 3px 2px 2px; white-space: nowrap">
-            Triple to LF (Fly Ball); Mueller Scores; Ramirez Scores
+            <a
+              href="https://www.youtube.com/clip/UgkxeTJuoGXPT4K-PTtyGwXVYUK12_a19nzc?utm_source=EJGixIgBCJiu2KjB4oSJEQ"
+              target="_blank"
+            >
+              Triple to LF (Fly Ball); Mueller Scores; Ramirez Scores
+            </a>
           </td>
         </tr>
         <tr>
